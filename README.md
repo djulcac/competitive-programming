@@ -18,10 +18,13 @@
 [[1]](https://www.youtube.com/watch?v=ewWLte158vA&t=7966s)
 
 ## List
-- [C. Qualification Rounds](https://codeforces.com/contest/868/problem/C) ACCEPTED
-- [C. Creative Snap](https://codeforces.com/contest/1111/problem/C) TLE
-- [A. Polycarp and Coins](https://codeforces.com/contest/1551/problem/A)
-- [D. Secret Passwords](https://codeforces.com/contest/1263/problem/D)
+| Problem | Status | Meta |
+| -- | -- | -- |
+| [C. Qualification Rounds](https://codeforces.com/contest/868/problem/C) | ACCEPTED |
+| [C. Creative Snap](https://codeforces.com/contest/1111/problem/C) | ACCEPTED
+| [A. Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 
+| [D. Secret Passwords](https://codeforces.com/contest/1263/problem/D) |
+| [B. AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | | *
 
 ## Training Camp Argentina 2022
 ### [Día 1, Inicial](https://www.youtube.com/watch?v=ewWLte158vA)
@@ -40,6 +43,13 @@
 - ....
 - [4:57:00](https://www.youtube.com/watch?v=sc2CFQ9kzbE) templates
 
+## Algorithms
+
+### Criba
+- [Criba de Eratóstenes](https://aprende.olimpiada-informatica.org/algoritmia-criba-eratostenes)
+## Others
+- Lista de frecuencia
+- [Conjetura de Goldbach](https://es.wikipedia.org/wiki/Conjetura_de_Goldbach)
 ## Ref
 - [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
 - [Training Camp Argentina](https://www.youtube.com/channel/UCTtoEdiHyjP6XmxMGhsngCA)
