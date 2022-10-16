@@ -18,13 +18,14 @@
 [[1]](https://www.youtube.com/watch?v=ewWLte158vA&t=7966s)
 
 ## List
-| Problem | Status | Meta |
-| -- | -- | -- |
+| Problem | Status | Type | Meta |
+| -- | -- | -- | -- |
 | [C. Qualification Rounds](https://codeforces.com/contest/868/problem/C) | ACCEPTED |
 | [C. Creative Snap](https://codeforces.com/contest/1111/problem/C) | ACCEPTED
 | [A. Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 
 | [D. Secret Passwords](https://codeforces.com/contest/1263/problem/D) |
-| [B. AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | | *
+| [B. AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | | | *
+| [D. Prime Graph](https://codeforces.com/contest/1178/problem/D) | | bot |
 
 ## Training Camp Argentina 2022
 ### [Día 1, Inicial](https://www.youtube.com/watch?v=ewWLte158vA)
@@ -50,6 +51,18 @@
 ## Others
 - Lista de frecuencia
 - [Conjetura de Goldbach](https://es.wikipedia.org/wiki/Conjetura_de_Goldbach)
+
+## Tips
+- Simular y ver patrones
+    [1](https://codeforces.com/contest/1516/problem/B)
+- Partir de la solución
+    [1](https://codeforces.com/contest/1516/problem/B)
+
+## Good code
+| Code | Language | Data |
+| -- | -- | -- |
+| [link](https://codeforces.com/contest/1516/submission/113796260) | c++ | short
+| [link](https://codeforces.com/contest/1516/submission/113921605) | python | fast
 ## Ref
 - [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
 - [Training Camp Argentina](https://www.youtube.com/channel/UCTtoEdiHyjP6XmxMGhsngCA)

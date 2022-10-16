@@ -1,39 +1,20 @@
-def f(value,step,agg):
-    n = len(value)
-    # print(n,step)
-    if n - step < 2:
-        return
-    ans = []
-    for i in range(step):
-        ans.append(value[i])
-    ans.append(value[step]^value[step+1])
-    for i in range(step+2,n):
-        ans.append(value[i])
-    agg.append(ans)
-    # f(ans,0,agg)
-    # f(ans,step,agg)
-    # f(ans,step+1,agg)
-    # f(value,step+1,agg)
-    for i in range(len(ans)):
-        f(ans,i,agg)
-    f(value,step+1,agg)
 def solve():
     n = int(input())
     v = [int(e) for e in input().split()]
-    print(n)
-    print(v)
-    print("-"*10)
-    for i in range(n):
-        print(bin(v[i])[2:].zfill(8))
-    # for i in range(n):
-    res = []
-    f(v,0,res)
-    print(":",res)
+    x,y,c=0,0,0
+    for i in range(0,n): x^=v[i]
+    for i in range(n-1,-1,-1):
+        y^=v[i]
+        if y==x:
+            c+=1
+            y=0
+    if not x or c>1 : return "YES"
+    return "NO"
 def init():
     T = 1
     T = int(input())
     while T:
-        solve()
-        # print(solve())
+        # solve()
+        print(solve())
         T -= 1
 init()
