@@ -26,9 +26,10 @@
 | [B. Arpa’s obvious problem and Mehrdad’s terrible solution](https://codeforces.com/contest/742/problem/B) | ACCEPTED | train |
 | [D. Secret Passwords](https://codeforces.com/contest/1263/problem/D) | ACCEPTED | bot |
 | [B. AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | ACCEPTED | train | simulate
-| [D. Prime Graph](https://codeforces.com/contest/1178/problem/D) | | bot |
+| [D. Prime Graph](https://codeforces.com/contest/1178/problem/D) | ACCEPTED | bot |
 | [C. Jury Meeting](https://codeforces.com/contest/1569/problem/C) | | train | 
 | [A. Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) | | fix | activate
+| [A. Division](https://codeforces.com/contest/1444/problem/A) | | bot |
 
 ## Training Camp Argentina 2022
 ### [Día 1, Inicial](https://www.youtube.com/watch?v=ewWLte158vA)
