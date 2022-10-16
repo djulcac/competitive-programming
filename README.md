@@ -18,18 +18,18 @@
 [[1]](https://www.youtube.com/watch?v=ewWLte158vA&t=7966s)
 
 ## List
-| Problem | Status | Type | Meta |
+| Problem | Type | Status | Meta |
 | -- | -- | -- | -- |
-| [C. Qualification Rounds](https://codeforces.com/contest/868/problem/C) | ACCEPTED |
-| [C. Creative Snap](https://codeforces.com/contest/1111/problem/C) | ACCEPTED
+| [C. Qualification Rounds](https://codeforces.com/contest/868/problem/C) | | ACCEPTED |
+| [C. Creative Snap](https://codeforces.com/contest/1111/problem/C) | | ACCEPTED
 | [A. Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 
-| [B. Arpa’s obvious problem and Mehrdad’s terrible solution](https://codeforces.com/contest/742/problem/B) | ACCEPTED | train |
-| [D. Secret Passwords](https://codeforces.com/contest/1263/problem/D) | ACCEPTED | bot |
-| [B. AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | ACCEPTED | train | simulate
-| [D. Prime Graph](https://codeforces.com/contest/1178/problem/D) | ACCEPTED | bot |
-| [C. Jury Meeting](https://codeforces.com/contest/1569/problem/C) | | train | 
-| [A. Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) | | fix | activate
-| [A. Division](https://codeforces.com/contest/1444/problem/A) | | bot |
+| [B. Arpa’s obvious problem and Mehrdad’s terrible solution](https://codeforces.com/contest/742/problem/B) | train | ACCEPTED |
+| [D. Secret Passwords](https://codeforces.com/contest/1263/problem/D) | bot | ACCEPTED |
+| [B. AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | train | ACCEPTED | simulate
+| [D. Prime Graph](https://codeforces.com/contest/1178/problem/D) | bot | ACCEPTED |
+| [C. Jury Meeting](https://codeforces.com/contest/1569/problem/C) | train | 
+| [A. Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) | fix | | activate
+| [A. Division](https://codeforces.com/contest/1444/problem/A) | bot |
 
 ## Training Camp Argentina 2022
 ### [Día 1, Inicial](https://www.youtube.com/watch?v=ewWLte158vA)
