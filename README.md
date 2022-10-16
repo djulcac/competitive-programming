@@ -23,14 +23,19 @@
 | [C. Qualification Rounds](https://codeforces.com/contest/868/problem/C) | ACCEPTED |
 | [C. Creative Snap](https://codeforces.com/contest/1111/problem/C) | ACCEPTED
 | [A. Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 
-| [D. Secret Passwords](https://codeforces.com/contest/1263/problem/D) |
-| [B. AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | | | *
+| [B. Arpa’s obvious problem and Mehrdad’s terrible solution](https://codeforces.com/contest/742/problem/B) | ACCEPTED | train |
+| [D. Secret Passwords](https://codeforces.com/contest/1263/problem/D) | ACCEPTED | bot |
+| [B. AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | ACCEPTED | train | *
 | [D. Prime Graph](https://codeforces.com/contest/1178/problem/D) | | bot |
+| [C. Jury Meeting](https://codeforces.com/contest/1569/problem/C) | | train | 
+| [A. Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) | | fix | 
 
 ## Training Camp Argentina 2022
 ### [Día 1, Inicial](https://www.youtube.com/watch?v=ewWLte158vA)
 - Suma de prefijos
     - [2:12:46](https://www.youtube.com/watch?v=ewWLte158vA&t=7966s)
+### [Día 2, Inicial](https://www.youtube.com/watch?v=j8EzgbwVP6o)
+- [31:36](https://www.youtube.com/watch?v=j8EzgbwVP6o&t=1896)
 ### [Día 2, Avanzado](https://www.youtube.com/watch?v=sc2CFQ9kzbE)
 - Fubini-Trick
     - [3:39:00](https://www.youtube.com/watch?v=sc2CFQ9kzbE&t=31140)
@@ -43,6 +48,22 @@
 - [4:21:11](https://www.youtube.com/watch?v=sc2CFQ9kzbE) árboles generadores
 - ....
 - [4:57:00](https://www.youtube.com/watch?v=sc2CFQ9kzbE) templates
+
+## Train Peppa
+https://codeforces.com/contest/1569/problem/C
+https://codeforces.com/problemset/problem/1594/E1
+https://codeforces.com/problemset/problem/584/B
+https://codeforces.com/problemset/problem/1081/C
+https://codeforces.com/problemset/problem/1391/C
+https://codeforces.com/problemset/problem/1084/C
+https://codeforces.com/problemset/problem/1534/C
+https://codeforces.com/problemset/problem/630/I
+https://codeforces.com/problemset/problem/1598/E
+https://codeforces.com/problemset/problem/1327/E
+https://codeforces.com/contest/1454/problem/E
+https://codeforces.com/problemset/problem/1207/D
+https://codeforces.com/problemset/problem/895/C
+https://codeforces.com/problemset/problem/557/D
 
 ## Algorithms
 
