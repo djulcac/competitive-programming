@@ -35,13 +35,19 @@
 | [A. Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) | fix | ACCEPTED | activate,12
 | [A. Division](https://codeforces.com/contest/1444/problem/A) | bot | | 23
 | [A. Lefthanders and Righthanders](https://codeforces.com/problemset/problem/234/A) | fix | | 3
+| [D. Random Teams](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/D) | arg22 | | 1i
 
 ## Training Camp Argentina 2022
+- [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
+    - [Ranking TC 2022 - Inicial](https://codeforces.com/group/4zVk9dZl6Q/customrating/4009)
+    - [Ranking TC 2022 - Avanzado](https://codeforces.com/group/4zVk9dZl6Q/customrating/4010)
+
 ### [Día 1, Inicial](https://www.youtube.com/watch?v=ewWLte158vA)
 - Suma de prefijos
     - [2:12:46](https://www.youtube.com/watch?v=ewWLte158vA&t=7966s)
 ### [Día 2, Inicial](https://www.youtube.com/watch?v=j8EzgbwVP6o)
 - [31:36](https://www.youtube.com/watch?v=j8EzgbwVP6o&t=1896)
+- [37:40 D](https://www.youtube.com/watch?v=j8EzgbwVP6o&t=2260)
 ### [Día 2, Avanzado](https://www.youtube.com/watch?v=sc2CFQ9kzbE)
 - Fubini-Trick
     - [3:39:00](https://www.youtube.com/watch?v=sc2CFQ9kzbE&t=31140)
@@ -90,6 +96,13 @@ https://codeforces.com/problemset/problem/557/D
 | -- | -- | -- |
 | [link](https://codeforces.com/contest/1516/submission/113796260) | c++ | short
 | [link](https://codeforces.com/contest/1516/submission/113921605) | python | fast
+
+## Top rated
+### Codeforces
+- [tourist](https://codeforces.com/profile/tourist)
+- [jiangly](https://codeforces.com/profile/jiangly)
+- [Um_nik](https://codeforces.com/profile/Um_nik)
+
 ## Ref
 - [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
 - [Training Camp Argentina](https://www.youtube.com/channel/UCTtoEdiHyjP6XmxMGhsngCA)
