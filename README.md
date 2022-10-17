@@ -1,5 +1,9 @@
 # Competitive programming
 
+## Content
+- [List](#list)
+- [Training Camp Argentina 2022](#training-camp-argentina-2022)
+
 ## Algorithm and Data structures
 
 [Algorithm Gym :: Data structures](https://codeforces.com/blog/entry/15729)
