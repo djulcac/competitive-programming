@@ -10,34 +10,36 @@ typedef vector<ii> vll;
 #define N6 1000006
 #define N5 100005
 #define N3 1003
-#define NN N3
-void print_value(ll l,ll r){
-    if(r-l==3){
-        cout<<l<<" "<<l+1<<endl;
-        cout<<l+1<<" "<<l+2<<endl;
-        cout<<l+2<<" "<<l<<endl;
-    }else if(r-l==4){
-        cout<<l<<" "<<l+1<<endl;
-        cout<<l+1<<" "<<l+2<<endl;
-        cout<<l+2<<" "<<l+3<<endl;
-        cout<<l<<" "<<l+3<<endl;
-        cout<<l<<" "<<l+2<<endl;
-    }else if(r-l==5){
-        cout<<l<<" "<<l+1<<endl;
-        cout<<l+1<<" "<<l+2<<endl;
-        cout<<l+2<<" "<<l+3<<endl;
-        cout<<l+3<<" "<<l+4<<endl;
-        cout<<l<<" "<<l+4<<endl;
-    }else{
-        print_value(l,l+3);
-        print_value(l+3,r);
+#define NN N3*3
+ll criba[NN];
+vector<ll>primes;
+void build(){
+    for(ll i=0;i<NN;i++)criba[i]=1;
+    criba[0]=criba[1]=0;
+    for(ll i=2;i<NN;i++){
+        if(criba[i]){
+            primes.push_back(i);
+            for(ll ip=2*i;ip<NN;ip+=i)criba[ip]=0;
+        }
     }
 }
+
 ll solve(){
-    ll n;
+    ll n,next;
 	cin>>n;
-    ll ans=n/3;
-    print_value(1,n+1);
+    build();
+    next=n;
+    while(!criba[next])next++;
+    cout<<next<<endl;
+    cout<<1<<" "<<n<<endl;
+    for(ll i=1;i<n;i++)cout<<i<<" "<<i+1<<endl;
+    for(ll i=0;i<next-n;i++)cout<<i+1<<" "<<i+n/2+1<<endl;
+    // if(!criba[n]){
+    //     ll next = n;
+    //     while(!criba[next])next++;
+    //     ll m = next-n;
+    //     for(ll i=0;i<m;i++)cout<<i+1<<" "<<i+n/2+1<<endl;
+    // }
 	return 0;
 }
 

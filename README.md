@@ -1,5 +1,9 @@
 # Competitive programming
 
+## Content
+- [List](#list)
+- [Training Camp Argentina 2022](#training-camp-argentina-2022)
+
 ## Algorithm and Data structures
 
 [Algorithm Gym :: Data structures](https://codeforces.com/blog/entry/15729)
@@ -18,24 +22,32 @@
 [[1]](https://www.youtube.com/watch?v=ewWLte158vA&t=7966s)
 
 ## List
-| Problem | Status | Type | Meta |
+| Problem | Type | Status | Meta |
 | -- | -- | -- | -- |
-| [C. Qualification Rounds](https://codeforces.com/contest/868/problem/C) | ACCEPTED |
-| [C. Creative Snap](https://codeforces.com/contest/1111/problem/C) | ACCEPTED
+| [C. Qualification Rounds](https://codeforces.com/contest/868/problem/C) | | ACCEPTED |
+| [C. Creative Snap](https://codeforces.com/contest/1111/problem/C) | | ACCEPTED
 | [A. Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 
-| [B. Arpa’s obvious problem and Mehrdad’s terrible solution](https://codeforces.com/contest/742/problem/B) | ACCEPTED | train |
-| [D. Secret Passwords](https://codeforces.com/contest/1263/problem/D) | ACCEPTED | bot |
-| [B. AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | ACCEPTED | train | *
-| [D. Prime Graph](https://codeforces.com/contest/1178/problem/D) | | bot |
-| [C. Jury Meeting](https://codeforces.com/contest/1569/problem/C) | | train | 
-| [A. Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) | | fix | 
+| [B. Arpa’s obvious problem and Mehrdad’s terrible solution](https://codeforces.com/contest/742/problem/B) | train | ACCEPTED |
+| [D. Secret Passwords](https://codeforces.com/contest/1263/problem/D) | bot | ACCEPTED |
+| [B. AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | train | ACCEPTED | simulate
+| [D. Prime Graph](https://codeforces.com/contest/1178/problem/D) | bot | ACCEPTED |
+| [C. Jury Meeting](https://codeforces.com/contest/1569/problem/C) | train | | 23
+| [A. Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) | fix | ACCEPTED | activate,12
+| [A. Division](https://codeforces.com/contest/1444/problem/A) | bot | | 23
+| [A. Lefthanders and Righthanders](https://codeforces.com/problemset/problem/234/A) | fix | | 3
+| [D. Random Teams](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/D) | arg22 | | 1i
 
 ## Training Camp Argentina 2022
+- [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
+    - [Ranking TC 2022 - Inicial](https://codeforces.com/group/4zVk9dZl6Q/customrating/4009)
+    - [Ranking TC 2022 - Avanzado](https://codeforces.com/group/4zVk9dZl6Q/customrating/4010)
+
 ### [Día 1, Inicial](https://www.youtube.com/watch?v=ewWLte158vA)
 - Suma de prefijos
     - [2:12:46](https://www.youtube.com/watch?v=ewWLte158vA&t=7966s)
 ### [Día 2, Inicial](https://www.youtube.com/watch?v=j8EzgbwVP6o)
 - [31:36](https://www.youtube.com/watch?v=j8EzgbwVP6o&t=1896)
+- [37:40 D](https://www.youtube.com/watch?v=j8EzgbwVP6o&t=2260)
 ### [Día 2, Avanzado](https://www.youtube.com/watch?v=sc2CFQ9kzbE)
 - Fubini-Trick
     - [3:39:00](https://www.youtube.com/watch?v=sc2CFQ9kzbE&t=31140)
@@ -84,7 +96,15 @@ https://codeforces.com/problemset/problem/557/D
 | -- | -- | -- |
 | [link](https://codeforces.com/contest/1516/submission/113796260) | c++ | short
 | [link](https://codeforces.com/contest/1516/submission/113921605) | python | fast
+
+## Top rated
+### Codeforces
+- [tourist](https://codeforces.com/profile/tourist)
+- [jiangly](https://codeforces.com/profile/jiangly)
+- [Um_nik](https://codeforces.com/profile/Um_nik)
+
 ## Ref
 - [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
 - [Training Camp Argentina](https://www.youtube.com/channel/UCTtoEdiHyjP6XmxMGhsngCA)
 - [Catalog](https://codeforces.com/catalog)
+- [Competitive programming](https://github.com/Peppa-Peddler/competitive-programming)
