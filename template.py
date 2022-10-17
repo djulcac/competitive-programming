@@ -1,10 +1,13 @@
 def solve():
-    [n,k]=[int(x) for x in input().split()]
-    m = [[None]*k for i in range(n)]
-    print("YES")
+    n=int(input())
+    a=list(map(int,input().split()))
+    return n
 
 def init():
     T=1
     T=int(input())
-    while T-=1:
-        solve()
+    while T:
+        # solve()
+        print(solve())
+        T -=1
+init()
