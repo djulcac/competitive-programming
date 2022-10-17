@@ -31,10 +31,10 @@
 | [D. Secret Passwords](https://codeforces.com/contest/1263/problem/D) | bot | ACCEPTED |
 | [B. AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | train | ACCEPTED | simulate
 | [D. Prime Graph](https://codeforces.com/contest/1178/problem/D) | bot | ACCEPTED |
-| [C. Jury Meeting](https://codeforces.com/contest/1569/problem/C) | train | | 23
+| [C. Jury Meeting](https://codeforces.com/contest/1569/problem/C) | train | | 231
 | [A. Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) | fix | ACCEPTED | activate,12
-| [A. Division](https://codeforces.com/contest/1444/problem/A) | bot | | 23
-| [A. Lefthanders and Righthanders](https://codeforces.com/problemset/problem/234/A) | fix | | 3
+| [A. Division](https://codeforces.com/contest/1444/problem/A) | bot | | 230
+| [A. Lefthanders and Righthanders](https://codeforces.com/problemset/problem/234/A) | fix | | 30
 | [D. Random Teams](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/D) | arg22 | | 1i
 
 ## Training Camp Argentina 2022
