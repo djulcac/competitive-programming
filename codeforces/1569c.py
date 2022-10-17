@@ -27,14 +27,37 @@ def solve():
     # contar de par en par y sacar modulo
     # tomar en cuenta la cantidad para saber que
     # tipo de combinatoria usar
-    print(la)
-    return n
+    # print(la)
+    t=len(la)-1
+    while t>=0:
+        if la[t]>1:
+            break
+        t-=1
+    if t<0:t=0
+    ans_sum = 0
+    i=t
+    while i>=0:
+        ans_sum += la[i]
+        i-=1
+    if ans_sum==1:return 1
+    print("cc.1",t,la,ans_sum)
+    ans=[1]*(len(la)-t+1)
+    # print("cc.2",ans)
+    MOD=998244353
+    for i in range(ans_sum):
+        ans[0]=(ans[0]*(i+1))%MOD
+    ans[1]=(ans[0]*ans_sum)%MOD
+    print("cc.3",ans)
+    for i in range(2,t+1):
+        print("gggg",i)
+        ans[i]=(ans[i-2]*ans_sum*(ans_sum+1)/2)%MOD
+    return ans[-1]
 
 def init():
     T=1
     T=int(input())
     while T:
         # solve()
-        print(solve())
+        print("gg",solve())
         T -=1
 init()
