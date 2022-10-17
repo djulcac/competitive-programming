@@ -31,11 +31,12 @@
 | [D. Secret Passwords](https://codeforces.com/contest/1263/problem/D) | bot | ACCEPTED |
 | [B. AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | train | ACCEPTED | simulate
 | [D. Prime Graph](https://codeforces.com/contest/1178/problem/D) | bot | ACCEPTED |
-| [C. Jury Meeting](https://codeforces.com/contest/1569/problem/C) | train | | 231
+| [C. Jury Meeting](https://codeforces.com/contest/1569/problem/C) | train | | 2312
 | [A. Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) | fix | ACCEPTED | activate,12
-| [A. Division](https://codeforces.com/contest/1444/problem/A) | bot | | 230
-| [A. Lefthanders and Righthanders](https://codeforces.com/problemset/problem/234/A) | fix | | 30
+| [A. Division](https://codeforces.com/contest/1444/problem/A) | bot | | 2302
+| [A. Lefthanders and Righthanders](https://codeforces.com/problemset/problem/234/A) | fix | ACCEPTED | 302
 | [D. Random Teams](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/D) | arg22 | | 1i
+| [A. Boy or Girl](https://codeforces.com/problemset/problem/236/A) | fix | | 3
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
@@ -62,20 +63,20 @@
 - [4:57:00](https://www.youtube.com/watch?v=sc2CFQ9kzbE) templates
 
 ## Train Peppa
-https://codeforces.com/contest/1569/problem/C
-https://codeforces.com/problemset/problem/1594/E1
-https://codeforces.com/problemset/problem/584/B
-https://codeforces.com/problemset/problem/1081/C
-https://codeforces.com/problemset/problem/1391/C
-https://codeforces.com/problemset/problem/1084/C
-https://codeforces.com/problemset/problem/1534/C
-https://codeforces.com/problemset/problem/630/I
-https://codeforces.com/problemset/problem/1598/E
-https://codeforces.com/problemset/problem/1327/E
-https://codeforces.com/contest/1454/problem/E
-https://codeforces.com/problemset/problem/1207/D
-https://codeforces.com/problemset/problem/895/C
-https://codeforces.com/problemset/problem/557/D
+- https://codeforces.com/contest/1569/problem/C
+- https://codeforces.com/problemset/problem/1594/E1
+- https://codeforces.com/problemset/problem/584/B
+- https://codeforces.com/problemset/problem/1081/C
+- https://codeforces.com/problemset/problem/1391/C
+- https://codeforces.com/problemset/problem/1084/C
+- https://codeforces.com/problemset/problem/1534/C
+- https://codeforces.com/problemset/problem/630/I
+- https://codeforces.com/problemset/problem/1598/E
+- https://codeforces.com/problemset/problem/1327/E
+- https://codeforces.com/contest/1454/problem/E
+- https://codeforces.com/problemset/problem/1207/D
+- https://codeforces.com/problemset/problem/895/C
+- https://codeforces.com/problemset/problem/557/D
 
 ## Algorithms
 
@@ -96,6 +97,7 @@ https://codeforces.com/problemset/problem/557/D
 | -- | -- | -- |
 | [link](https://codeforces.com/contest/1516/submission/113796260) | c++ | short
 | [link](https://codeforces.com/contest/1516/submission/113921605) | python | fast
+| [link](https://codeforces.com/contest/1739/submission/173941601) | python | fast print
 
 ## Top rated
 ### Codeforces
