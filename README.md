@@ -27,9 +27,10 @@
 | [D. Secret Passwords](https://codeforces.com/contest/1263/problem/D) | bot | ACCEPTED |
 | [B. AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | train | ACCEPTED | simulate
 | [D. Prime Graph](https://codeforces.com/contest/1178/problem/D) | bot | ACCEPTED |
-| [C. Jury Meeting](https://codeforces.com/contest/1569/problem/C) | train | 
-| [A. Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) | fix | | activate
-| [A. Division](https://codeforces.com/contest/1444/problem/A) | bot |
+| [C. Jury Meeting](https://codeforces.com/contest/1569/problem/C) | train | | 1
+| [A. Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) | fix | ACCEPTED | activate,01
+| [A. Division](https://codeforces.com/contest/1444/problem/A) | bot | | 1
+| [A. Lefthanders and Righthanders](https://codeforces.com/problemset/problem/234/A) | fix | | 2
 
 ## Training Camp Argentina 2022
 ### [Día 1, Inicial](https://www.youtube.com/watch?v=ewWLte158vA)
@@ -89,3 +90,4 @@ https://codeforces.com/problemset/problem/557/D
 - [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
 - [Training Camp Argentina](https://www.youtube.com/channel/UCTtoEdiHyjP6XmxMGhsngCA)
 - [Catalog](https://codeforces.com/catalog)
+- [Competitive programming](https://github.com/Peppa-Peddler/competitive-programming)
