@@ -49,6 +49,9 @@
 ### [Día 2, Inicial](https://www.youtube.com/watch?v=j8EzgbwVP6o)
 - [31:36](https://www.youtube.com/watch?v=j8EzgbwVP6o&t=1896)
 - [37:40 D](https://www.youtube.com/watch?v=j8EzgbwVP6o&t=2260)
+- [59:40 F](https://www.youtube.com/watch?v=j8EzgbwVP6o&t=3580)
+- [1:27:15 E](https://www.youtube.com/watch?v=j8EzgbwVP6o&t=5235)
+
 ### [Día 2, Avanzado](https://www.youtube.com/watch?v=sc2CFQ9kzbE)
 - Fubini-Trick
     - [3:39:00](https://www.youtube.com/watch?v=sc2CFQ9kzbE&t=31140)
