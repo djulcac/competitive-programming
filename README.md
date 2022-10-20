@@ -90,6 +90,7 @@
 ## Others
 - Lista de frecuencia
 - [Conjetura de Goldbach](https://es.wikipedia.org/wiki/Conjetura_de_Goldbach)
+- [Euler's constant](https://en.wikipedia.org/wiki/Euler%27s_constant)
 
 ## Tips
 - Simular y ver patrones
