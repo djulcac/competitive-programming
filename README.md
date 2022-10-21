@@ -33,12 +33,18 @@
 | [D. Prime Graph](https://codeforces.com/contest/1178/problem/D) | bot | ACCEPTED |
 | [C. Jury Meeting](https://codeforces.com/contest/1569/problem/C) | train | ACCEPTED | 2312
 | [A. Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A) | fix | ACCEPTED | activate,12
-| [A. Division](https://codeforces.com/contest/1444/problem/A) | bot | | 23 020 003
+| [A. Division](https://codeforces.com/contest/1444/problem/A) | bot | ACCEPTED | 23 020 003
 | [A. Lefthanders and Righthanders](https://codeforces.com/problemset/problem/234/A) | fix | ACCEPTED | 302
-| [D. Random Teams](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/D) | arg22 | | 1i
+| [D. Random Teams](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/D) | arg22 | ACCEPTED | 1i improve
 | [A. Boy or Girl](https://codeforces.com/problemset/problem/236/A) | fix | ACCEPTED | 3
 | [E1. Rubik's Cube Coloring (easy version)](https://codeforces.com/problemset/problem/1594/E1) | train | | 3
-| [C1. Potions (Easy Version)](https://codeforces.com/problemset/problem/1526/C1) | fix | | 20003
+| [C1. Potions (Easy Version)](https://codeforces.com/problemset/problem/1526/C1) | fix | | 20 003
+| [C. Omkar and Baseball](https://codeforces.com/contest/1372/problem/C) | bot | | 3
+| [A. Tom Riddle's Diary](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/A) | arg22 | ACCEPTED |
+| [B. Bark to Unlock](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/B) | arg22 | ACCEPTED |
+| [C. Kostya the Sculptor](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/C) | arg22 | ACCEPTED |
+| [E. Qualification Rounds](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/E) | arg22 | ACCEPTED |
+| [F. Regalos en Bankopolis](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/F) | arg22 | | 3
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
