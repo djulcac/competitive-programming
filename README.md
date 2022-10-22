@@ -39,12 +39,13 @@
 | [A. Boy or Girl](https://codeforces.com/problemset/problem/236/A) | fix | ACCEPTED | 3
 | [E1. Rubik's Cube Coloring (easy version)](https://codeforces.com/problemset/problem/1594/E1) | train | | 3
 | [C1. Potions (Easy Version)](https://codeforces.com/problemset/problem/1526/C1) | fix | | 20 003
-| [C. Omkar and Baseball](https://codeforces.com/contest/1372/problem/C) | bot | | 3
+| [C. Omkar and Baseball](https://codeforces.com/contest/1372/problem/C) | bot | ACCEPTED | 3 | improve
 | [A. Tom Riddle's Diary](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/A) | arg22 | ACCEPTED |
 | [B. Bark to Unlock](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/B) | arg22 | ACCEPTED |
 | [C. Kostya the Sculptor](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/C) | arg22 | ACCEPTED |
 | [E. Qualification Rounds](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/E) | arg22 | ACCEPTED |
 | [F. Regalos en Bankopolis](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/F) | arg22 | | 3
+| [D2. Sage's Birthday (hard version)](https://codeforces.com/contest/1419/problem/D2) | bot | | 1
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
