@@ -27,7 +27,7 @@
 | [C. Qualification Rounds](https://codeforces.com/contest/868/problem/C) | | ACCEPTED |
 | [C. Creative Snap](https://codeforces.com/contest/1111/problem/C) | | ACCEPTED
 | [A. Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 
-| [B. Arpa’s obvious problem and Mehrdad’s terrible solution](https://codeforces.com/contest/742/problem/B) | train | ACCEPTED |
+| [B. Arpa’s obvious problem and Mehrdad’s terrible solution](https://codeforces.com/contest/742/problem/B) |train |ACCEPTED |
 | [D. Secret Passwords](https://codeforces.com/contest/1263/problem/D) | bot | ACCEPTED |
 | [B. AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | train | ACCEPTED | simulate
 | [D. Prime Graph](https://codeforces.com/contest/1178/problem/D) | bot | ACCEPTED |
@@ -37,7 +37,7 @@
 | [A. Lefthanders and Righthanders](https://codeforces.com/problemset/problem/234/A) | fix | ACCEPTED | 302
 | [D. Random Teams](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/D) | arg22 | ACCEPTED | 1i improve
 | [A. Boy or Girl](https://codeforces.com/problemset/problem/236/A) | fix | ACCEPTED | 3
-| [E1. Rubik's Cube Coloring (easy version)](https://codeforces.com/problemset/problem/1594/E1) | train | | 3
+| [E1. Rubik's Cube Coloring (easy version)](https://codeforces.com/problemset/problem/1594/E1) |train |ACCEPTED |3
 | [C1. Potions (Easy Version)](https://codeforces.com/problemset/problem/1526/C1) | fix | | 20 003
 | [C. Omkar and Baseball](https://codeforces.com/contest/1372/problem/C) | bot | ACCEPTED | 3 | improve
 | [A. Tom Riddle's Diary](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/A) | arg22 | ACCEPTED |
