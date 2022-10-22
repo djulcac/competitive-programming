@@ -38,7 +38,7 @@
 | [D. Random Teams](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/D) | arg22 | ACCEPTED | 1i improve
 | [A. Boy or Girl](https://codeforces.com/problemset/problem/236/A) | fix | ACCEPTED | 3
 | [E1. Rubik's Cube Coloring (easy version)](https://codeforces.com/problemset/problem/1594/E1) |train |ACCEPTED |3
-| [C1. Potions (Easy Version)](https://codeforces.com/problemset/problem/1526/C1) | fix | | 20 003
+| [C1. Potions (Easy Version)](https://codeforces.com/problemset/problem/1526/C1) | fix |ACCEPTED| 20 003 improve extend
 | [C. Omkar and Baseball](https://codeforces.com/contest/1372/problem/C) | bot | ACCEPTED | 3 | improve
 | [A. Tom Riddle's Diary](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/A) | arg22 | ACCEPTED |
 | [B. Bark to Unlock](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/B) | arg22 | ACCEPTED |
