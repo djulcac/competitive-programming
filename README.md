@@ -47,6 +47,7 @@
 | [F. Regalos en Bankopolis](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/F) | arg22 | | 3
 | [D2. Sage's Birthday (hard version)](https://codeforces.com/contest/1419/problem/D2) | bot | | 1
 |[B. Kolya and Tanya](https://codeforces.com/problemset/problem/584/B) |train||3
+|[C2. Potions (Hard Version)](https://codeforces.com/problemset/problem/1526/C2) |fix||2
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
