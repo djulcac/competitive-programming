@@ -46,6 +46,7 @@
 | [E. Qualification Rounds](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/E) | arg22 | ACCEPTED |
 | [F. Regalos en Bankopolis](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/F) | arg22 | | 3
 | [D2. Sage's Birthday (hard version)](https://codeforces.com/contest/1419/problem/D2) | bot | | 1
+|[B. Kolya and Tanya](https://codeforces.com/problemset/problem/584/B) |train||3
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)

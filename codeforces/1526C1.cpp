@@ -9,30 +9,19 @@ typedef long long ll;
 #define N 2003
 bool fl[N][N];
 ll ar[N],sufix[N],n,me[N][N];
-ll dp(ll i,ll k){
-	if(fl[i][k]) return me[i][k];
-	if(i==0){
-		if(va+ar[i]>=0)
-			return 1;
-		return 0;
-	}
-	ll r1 = 0;
-	if(va+ar[i]>=0) r1 = 1+dp(i+1,va+ar[i]);
-	ll r2 = dp(i+1,va);
-	return max(r1,r2);
-}
-
 ll solve(){
+	ll su;
 	cin>>n;
+	vector<ll>ve;
 	f(i,n)cin>>ar[i];
-	sufix[0]=0;
 	f(i,n){
-		sufix[i+1]=sufix[i]+ar[i];
-	ll ans=0;
-	F(i,n-1,-1){
-		if(ar[i]>=0 || sufix[])ans++;
+		ve.push_back(ar[i]);
+		sort(ve.begin(),ve.end());
+		su = 0;
+		for(auto it:ve)su+=it;
+		if(su<0) ve.erase(ve.begin());
 	}
-	return dp(0,0);
+	return ve.size();
 }
 
 int main(){
