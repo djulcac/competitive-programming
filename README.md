@@ -50,6 +50,7 @@
 |[C2. Potions (Hard Version)](https://codeforces.com/problemset/problem/1526/C2) |fix|ACCEPTED|2
 |[A. Party](https://codeforces.com/contest/115/problem/A) |cp1|ACCEPTED|2
 |[A. Games](https://codeforces.com/contest/268/problem/A) |cp1|ACCEPTED|2
+[A. Circle Line](https://codeforces.com/contest/278/problem/A) |cp1|ACCEPTED|0
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
