@@ -51,7 +51,8 @@
 |[A. Party](https://codeforces.com/contest/115/problem/A) |cp1|ACCEPTED|2
 |[A. Games](https://codeforces.com/contest/268/problem/A) |cp1|ACCEPTED|2
 [A. Circle Line](https://codeforces.com/contest/278/problem/A) |cp1|ACCEPTED|0
-[C. Colorful Bricks](https://codeforces.com/problemset/problem/1081/C) |train||3
+[C. Colorful Bricks](https://codeforces.com/problemset/problem/1081/C) |train mod|ACCEPTED|3
+[C. Cyclic Permutations](https://codeforces.com/problemset/problem/1391/C) |train||2
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
