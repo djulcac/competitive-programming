@@ -28,7 +28,7 @@ class Manage():
         return True
     def run(self,i):
         path=os.path.join(self.BASE_DIR,self.judge)
-        command=f'python {os.path.join(path,self.name)}.py < {os.path.join(path,self.name)}.in.{i}.txt'
+        command=f'python3 {os.path.join(path,self.name)}.py < {os.path.join(path,self.name)}.in.{i}.txt'
         if self.language=='cpp':
             command=f'{os.path.join(path,"a.out")} < {os.path.join(path,self.name)}.in.{i}.txt'
         print("command:",command)

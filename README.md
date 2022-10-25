@@ -46,11 +46,12 @@
 | [E. Qualification Rounds](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/E) | arg22 | ACCEPTED |
 | [F. Regalos en Bankopolis](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/F) | arg22 | | 3
 | [D2. Sage's Birthday (hard version)](https://codeforces.com/contest/1419/problem/D2) | bot | | 1
-|[B. Kolya and Tanya](https://codeforces.com/problemset/problem/584/B) |train||3
+[B. Kolya and Tanya](https://codeforces.com/problemset/problem/584/B) |train mod|ACCEPTED|3
 |[C2. Potions (Hard Version)](https://codeforces.com/problemset/problem/1526/C2) |fix|ACCEPTED|2
 |[A. Party](https://codeforces.com/contest/115/problem/A) |cp1|ACCEPTED|2
 |[A. Games](https://codeforces.com/contest/268/problem/A) |cp1|ACCEPTED|2
 [A. Circle Line](https://codeforces.com/contest/278/problem/A) |cp1|ACCEPTED|0
+[C. Colorful Bricks](https://codeforces.com/problemset/problem/1081/C) |train||3
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
