@@ -45,7 +45,7 @@
 | [C. Kostya the Sculptor](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/C) | arg22 | ACCEPTED |
 | [E. Qualification Rounds](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/E) | arg22 | ACCEPTED |
 | [F. Regalos en Bankopolis](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/F) | arg22 | | 3
-| [D2. Sage's Birthday (hard version)](https://codeforces.com/contest/1419/problem/D2) | bot | | 1
+[D2. Sage's Birthday (hard version)](https://codeforces.com/contest/1419/problem/D2) |bot sort|ACCEPTED|1
 [B. Kolya and Tanya](https://codeforces.com/problemset/problem/584/B) |train mod|ACCEPTED|3
 |[C2. Potions (Hard Version)](https://codeforces.com/problemset/problem/1526/C2) |fix|ACCEPTED|2
 |[A. Party](https://codeforces.com/contest/115/problem/A) |cp1|ACCEPTED|2
@@ -53,6 +53,10 @@
 [A. Circle Line](https://codeforces.com/contest/278/problem/A) |cp1|ACCEPTED|0
 [C. Colorful Bricks](https://codeforces.com/problemset/problem/1081/C) |train mod|ACCEPTED|3
 [C. Cyclic Permutations](https://codeforces.com/problemset/problem/1391/C) |train||2
+[C. K-Complete Word](https://codeforces.com/contest/1332/problem/C) |bot cf|ACCEPTED|2
+[A0Paper](https://arena.topcoder.com/#/u/practiceCode/17244/67923/15005/2/331608) |tc|
+[A. Nastya and Strange Generator](https://codeforces.com/contest/1340/problem/A) |bot|ACCEPTED|3
+[F. Equalize the Array](https://codeforces.com/contest/1490/problem/F) |bot cf|ACCEPTED|3
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
@@ -118,6 +122,13 @@
 | [link](https://codeforces.com/contest/1516/submission/113796260) | c++ | short
 | [link](https://codeforces.com/contest/1516/submission/113921605) | python | fast
 | [link](https://codeforces.com/contest/1739/submission/173941601) | python | fast print
+## Other code
+| Code | Language | Data |
+| -- | -- | -- |
+[A0Paper](https://github.com/EcutDavid/oj-practices/blob/master/topcoder/A0Paper.cpp)|c++|begin
+
+## TopCoder
+- [A0Paper](https://arena.topcoder.com/#/u/practiceCode/17244/67923/15005/2/331608)
 
 ## Top rated
 ### Codeforces
