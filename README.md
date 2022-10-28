@@ -54,10 +54,13 @@
 [C. Colorful Bricks](https://codeforces.com/problemset/problem/1081/C) |train mod|ACCEPTED|3
 [C. Cyclic Permutations](https://codeforces.com/problemset/problem/1391/C) |train||2
 [C. K-Complete Word](https://codeforces.com/contest/1332/problem/C) |bot cf|ACCEPTED|2
-[A0Paper](https://arena.topcoder.com/#/u/practiceCode/17244/67923/15005/2/331608) |tc|
+[A0Paper](https://arena.topcoder.com/#/u/practiceCode/17244/67923/15005/2/331608) |tc math|ACCEPTEC|2
 [A. Nastya and Strange Generator](https://codeforces.com/contest/1340/problem/A) |bot|ACCEPTED|3
-[F. Equalize the Array](https://codeforces.com/contest/1490/problem/F) |bot cf|ACCEPTED|3
-[100 - The 3n + 1 problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36) |uva||2
+[F. Equalize the Array](https://codeforces.com/contest/1490/problem/F) |bot cf|ACCEPTED|3 improve sum
+[100 - The 3n + 1 problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36) |uva math|ACCEPTED|2
+[E. Polycarp's New Job](https://codeforces.com/contest/1101/problem/E) |cf bot||2
+[A. Point on Spiral](https://codeforces.com/contest/279/problem/A) |cp1 cf||2
+[BuildString](https://arena.topcoder.com/#/u/practiceCode/19470/311159/17862/1/337518) |tp||2
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
@@ -131,6 +134,7 @@
 
 ## TopCoder
 - [A0Paper](https://arena.topcoder.com/#/u/practiceCode/17244/67923/15005/2/331608)
+- [Statistics problems](https://community.topcoder.com/tc?module=ProblemArchive)
 
 ## Top rated
 ### Codeforces
