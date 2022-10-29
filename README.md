@@ -68,7 +68,8 @@
 [C. Learning Languages](https://codeforces.com/contest/278/problem/C) |cf cp1|ACCEPTED|3
 [A - Word Capitalization](https://codeforces.com/contest/281/problem/A) |cf cp1|ACCEPTED|3
 [A. Double Cola](https://codeforces.com/contest/82/problem/A) |cf cp1|ACCEPTED|3
-[A. String Task](https://codeforces.com/contest/118/problem/A) |cf cp1||3
+[A. String Task](https://codeforces.com/contest/118/problem/A) |cf cp1|ACCEPTED|3
+[A. Tram](https://codeforces.com/contest/116/problem/A) |cf cp1||3
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
