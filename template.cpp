@@ -14,8 +14,8 @@ ll solve(){
 int main(){
 	ll T = 1;
 	// cin>>T;
-	while(T--) solve();
-	// while(T--) cout<<solve()<<endl;
+	// while(T--) solve();
+	while(T--) cout<<solve()<<endl;
 	return 0;
 }
 //3

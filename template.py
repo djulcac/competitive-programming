@@ -5,7 +5,7 @@ def solve():
 
 def init():
     T=1
-    T=int(input())
+    # T=int(input())
     while T:
         # solve()
         print(solve())
