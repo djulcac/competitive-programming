@@ -26,7 +26,7 @@
 | -- | -- | -- | -- |
 | [C. Qualification Rounds](https://codeforces.com/contest/868/problem/C) | | ACCEPTED |
 | [C. Creative Snap](https://codeforces.com/contest/1111/problem/C) | | ACCEPTED
-| [A. Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 
+| [A. Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | |ACCEPTED
 | [B. Arpa’s obvious problem and Mehrdad’s terrible solution](https://codeforces.com/contest/742/problem/B) |train |ACCEPTED |
 | [D. Secret Passwords](https://codeforces.com/contest/1263/problem/D) | bot | ACCEPTED |
 | [B. AGAGA XOOORRR](https://codeforces.com/contest/1516/problem/B) | train | ACCEPTED | simulate
@@ -44,7 +44,7 @@
 | [B. Bark to Unlock](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/B) | arg22 | ACCEPTED |
 | [C. Kostya the Sculptor](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/C) | arg22 | ACCEPTED |
 | [E. Qualification Rounds](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/E) | arg22 | ACCEPTED |
-| [F. Regalos en Bankopolis](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/F) | arg22 | | 3
+| [F. Presents in Bankopolis](https://codeforces.com/group/4zVk9dZl6Q/contest/390414/problem/F) | arg22 | | 3
 [D2. Sage's Birthday (hard version)](https://codeforces.com/contest/1419/problem/D2) |bot sort|ACCEPTED|1
 [B. Kolya and Tanya](https://codeforces.com/problemset/problem/584/B) |train mod|ACCEPTED|3
 |[C2. Potions (Hard Version)](https://codeforces.com/problemset/problem/1526/C2) |fix|ACCEPTED|2
@@ -59,8 +59,16 @@
 [F. Equalize the Array](https://codeforces.com/contest/1490/problem/F) |bot cf|ACCEPTED|3 improve sum
 [100 - The 3n + 1 problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36) |uva math|ACCEPTED|2
 [E. Polycarp's New Job](https://codeforces.com/contest/1101/problem/E) |cf bot||2
-[A. Point on Spiral](https://codeforces.com/contest/279/problem/A) |cp1 cf||2
+[A. Point on Spiral](https://codeforces.com/contest/279/problem/A) |cp1 cf|ACCEPTED|2 improve math
 [BuildString](https://arena.topcoder.com/#/u/practiceCode/19470/311159/17862/1/337518) |tp||2
+[A. Theatre Square](https://codeforces.com/contest/1/problem/A) |cf cp1|ACCEPTED|2
+[A. Watermelon](https://codeforces.com/contest/4/problem/A) |cf cp1|ACCEPTED|2
+[A. Next Round](https://codeforces.com/contest/158/problem/A) |cf cp1|ACCEPTED|2
+[C. Party](https://codeforces.com/contest/116/problem/C) |cf cp1 dfs|ACCEPTED|3
+[C. Learning Languages](https://codeforces.com/contest/278/problem/C) |cf cp1|ACCEPTED|3
+[A - Word Capitalization](https://codeforces.com/contest/281/problem/A) |cf cp1|ACCEPTED|3
+[A. Double Cola](https://codeforces.com/contest/82/problem/A) |cf cp1|ACCEPTED|3
+[A. String Task](https://codeforces.com/contest/118/problem/A) |cf cp1||3
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
@@ -89,6 +97,7 @@
 - ....
 - [4:57:00](https://www.youtube.com/watch?v=sc2CFQ9kzbE) templates
 
+Status [link](https://codeforces.com/group/4zVk9dZl6Q/status)
 ## Train Peppa
 - https://codeforces.com/contest/1569/problem/C
 - https://codeforces.com/problemset/problem/1594/E1

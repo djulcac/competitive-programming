@@ -1,7 +1,6 @@
 def solve():
-    n=int(input())
-    a=list(map(int,input().split()))
-    return n
+    s=input()
+    return s[0].upper()+s[1:]
 
 def init():
     T=1

@@ -6,9 +6,10 @@ typedef long long ll;
 #define F(i,a,b) for(_int i=a,_=a<b;(_&&i<b)||(!_&&i>b);_?i++:i--)
 #define f(i,n) for(_int i=0;i<n;i++)
 
-ll solve(){
-	F(i,3,6)cout<<i<<" ";cout<<endl;
-	return 0;
+string solve(){
+	ll w;cin>>w;
+	if(w%2 || w<4) return "NO";
+	return "YES";
 }
 
 int main(){
