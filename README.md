@@ -69,7 +69,12 @@
 [A - Word Capitalization](https://codeforces.com/contest/281/problem/A) |cf cp1|ACCEPTED|3
 [A. Double Cola](https://codeforces.com/contest/82/problem/A) |cf cp1|ACCEPTED|3
 [A. String Task](https://codeforces.com/contest/118/problem/A) |cf cp1|ACCEPTED|3
-[A. Tram](https://codeforces.com/contest/116/problem/A) |cf cp1||3
+[A. Tram](https://codeforces.com/contest/116/problem/A) |cf cp1|ACCEPTED|3
+[A. Epic Game](https://codeforces.com/contest/119/problem/A) |cf cp1||3
+[A. Factorise N+M](https://codeforces.com/contest/1740/problem/A) |cf sum prime|ACCEPTED|1
+[B. Jumbo Extra Cheese 2](https://codeforces.com/contest/1740/problem/B) |cf max min|ACCEPTED|1
+[C. Bricks and Bags](https://codeforces.com/contest/1740/problem/C) |cf c sort sim|ACCEPTED|2 improve
+[D. Knowledge Cards](https://codeforces.com/contest/1740/problem/D) |cf c|ACCEPTED|2
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)

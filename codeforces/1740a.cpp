@@ -8,12 +8,14 @@ typedef long long ll;
 ll solve(){
 	ll n,m,k;
 	cin>>n;
-	return 0;
+	if(n==1 || n==2) return 7;
+	if(n%2) return 3;
+	return 2;
 }
 
 int main(){
 	ll T = 1;
-	// cin>>T;
+	cin>>T;
 	// while(T--) solve();
 	while(T--) cout<<solve()<<endl;
 	return 0;

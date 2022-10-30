@@ -20,7 +20,7 @@ class Manage():
         if "language" in config: self.language=config["language"]
         # if "typeRun" in config: self.typeRun=config["typeRun"]
         if "judge" in config: self.judge=config["judge"] 
-        if "validateN" in config: self.validateN=config["validateN"] 
+        if "isContest" in config: self.isContest=config["isContest"] 
     def build(self):
         path=os.path.join(self.BASE_DIR,self.judge)
         command=''
@@ -52,8 +52,6 @@ class Manage():
         for x in ["name","language","judge"]:
             if x in params:
                 config[x]=params[x]
-        print(config)
-        print
         json_object = json.dumps(config, indent=4) 
         with open("config.log.json", "w") as outfile:
             outfile.write(json_object)
@@ -64,6 +62,8 @@ class Manage():
             while self.name[i] in '0123456789':
                 i+=1
             urlName=f'https://codeforces.com/problemset/problem/{self.name[:i]}/{self.name[i:].upper()}'
+            if self.isContest:
+                urlName=f'https://codeforces.com/contest/{self.name[:i]}/problem/{self.name[i:].upper()}'
             # print(urlName)
             print("Obteniendo datos")
             x = requests.get(urlName)
@@ -77,7 +77,10 @@ class Manage():
             name = os.path.join(path,f"{self.name}.data.short.log.md")
             with open(name,"w") as outfile:
                 x = html.find_all("div",{"class":"problem-statement"})
-                # print(x)
+                outfile.write(str(x[0]))
+            name = os.path.join(path,f"data.log.md")
+            with open(name,"w") as outfile:
+                x = html.find_all("div",{"class":"problem-statement"})
                 outfile.write(str(x[0]))
 
 
@@ -113,7 +116,7 @@ class Manage():
             "judge":"codeforces",
             "name":"template",
             "language":"py",
-            "validateN":1
+            "isContest":False
         }
         path = os.path.join(self.BASE_DIR,self.configName)
         if os.path.isfile(path):
