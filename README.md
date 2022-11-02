@@ -75,6 +75,7 @@
 [B. Jumbo Extra Cheese 2](https://codeforces.com/contest/1740/problem/B) |cf max min|ACCEPTED|1
 [C. Bricks and Bags](https://codeforces.com/contest/1740/problem/C) |cf c sort sim|ACCEPTED|2 improve
 [D. Knowledge Cards](https://codeforces.com/contest/1740/problem/D) |cf c|ACCEPTED|2
+[C. Traffic Light](https://codeforces.com/problemset/problem/1744/C) |cf 1000|ACCEPTED|2
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
@@ -156,6 +157,13 @@ Status [link](https://codeforces.com/group/4zVk9dZl6Q/status)
 - [tourist](https://codeforces.com/profile/tourist)
 - [jiangly](https://codeforces.com/profile/jiangly)
 - [Um_nik](https://codeforces.com/profile/Um_nik)
+
+## Improve
+- 1100-1200 -> 1100-1500
+    - binary search 
+        - https://codeforces.com/problemset/problem/1749/C
+            - https://codeforces.com/contest/1749/submission/177224778
+            - https://codeforces.com/contest/1749/submission/178158227
 
 ## Ref
 - [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
