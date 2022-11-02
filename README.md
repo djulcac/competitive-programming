@@ -76,6 +76,9 @@
 [C. Bricks and Bags](https://codeforces.com/contest/1740/problem/C) |cf c sort sim|ACCEPTED|2 improve
 [D. Knowledge Cards](https://codeforces.com/contest/1740/problem/D) |cf c|ACCEPTED|2
 [C. Traffic Light](https://codeforces.com/problemset/problem/1744/C) |cf 1000|ACCEPTED|2
+[E. Scuza](https://codeforces.com/contest/1742/problem/E) |cf|ACCEPTED|
+[C. Save the Magazines](https://codeforces.com/contest/1743/problem/C) |cf|ACCEPTED|
+[C. Number Game](https://codeforces.com/problemset/problem/1749/C) |cf 1200|ACCEPTED|3
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
