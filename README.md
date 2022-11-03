@@ -162,11 +162,22 @@ Status [link](https://codeforces.com/group/4zVk9dZl6Q/status)
 - [Um_nik](https://codeforces.com/profile/Um_nik)
 
 ## Improve
-- 1100-1200 -> 1100-1500
-    - binary search 
-        - https://codeforces.com/problemset/problem/1749/C
-            - https://codeforces.com/contest/1749/submission/177224778
-            - https://codeforces.com/contest/1749/submission/178158227
+- 1100-1200 -> 1300-1400
+    - https://codeforces.com/contest/1742/problem/E
+    - https://codeforces.com/contest/1742/problem/D
+        - binary search 
+            - https://codeforces.com/problemset/problem/1749/C
+                - https://codeforces.com/contest/1749/submission/177224778
+                - https://codeforces.com/contest/1749/submission/178158227
+        - data structures
+            - https://codeforces.com/problemset/problem/1736/C1
+                - https://codeforces.com/contest/1736/submission/175525713
+        - number theory
+            - https://codeforces.com/problemset/problem/1714/E
+                - https://codeforces.com/blog/entry/105549
+                - https://codeforces.com/contest/1714/submission/167090762
+    - https://codeforces.com/problemset/problem/1741/C
+    - https://codeforces.com/problemset/problem/1739/B
 
 ## Ref
 - [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
