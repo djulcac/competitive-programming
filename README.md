@@ -178,6 +178,17 @@ Status [link](https://codeforces.com/group/4zVk9dZl6Q/status)
                 - https://codeforces.com/contest/1714/submission/167090762
     - https://codeforces.com/problemset/problem/1741/C
     - https://codeforces.com/problemset/problem/1739/B
+        - https://codeforces.com/problemset?tags=brute%20force,1300-1400
+            - https://codeforces.com/problemset/problem/1711/B
+                - https://codeforces.com/blog/entry/105232
+                - https://codeforces.com/contest/1711/submission/165615024
+        - https://codeforces.com/problemset/page/3?tags=greedy%2C1300-1400
+            - https://codeforces.com/problemset/problem/435/B
+                - https://codeforces.com/blog/entry/12479
+                - https://codeforces.com/contest/435/submission/151488370
+                - https://codeforces.com/contest/435/submission/97153558
+        - https://codeforces.com/problemset/page/3?tags=math%2C1300-1400
+            - https://codeforces.com/problemset/problem/71/B
 
 ## Ref
 - [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
