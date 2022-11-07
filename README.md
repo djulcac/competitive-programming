@@ -189,6 +189,8 @@ Status [link](https://codeforces.com/group/4zVk9dZl6Q/status)
                 - https://codeforces.com/contest/435/submission/97153558
         - https://codeforces.com/problemset/page/3?tags=math%2C1300-1400
             - https://codeforces.com/problemset/problem/71/B
+    - https://codeforces.com/problemset/problem/1202/A
+    - https://codeforces.com/problemset/problem/1504/B
 
 ## Ref
 - [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
