@@ -6,7 +6,7 @@ typedef long long ll;
 #define f(i,n) for(_int i=0;i<n;i++)
 
 ll solve(){
-	ll n,k,m,t,nn;
+	ll n,nn,m;
 	cin>>n;
 	return 0;
 }

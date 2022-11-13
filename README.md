@@ -68,7 +68,17 @@
 [C. Learning Languages](https://codeforces.com/contest/278/problem/C) |cf cp1|ACCEPTED|3
 [A - Word Capitalization](https://codeforces.com/contest/281/problem/A) |cf cp1|ACCEPTED|3
 [A. Double Cola](https://codeforces.com/contest/82/problem/A) |cf cp1|ACCEPTED|3
-[A. String Task](https://codeforces.com/contest/118/problem/A) |cf cp1||3
+[A. String Task](https://codeforces.com/contest/118/problem/A) |cf cp1|ACCEPTED|3
+[A. Tram](https://codeforces.com/contest/116/problem/A) |cf cp1|ACCEPTED|3
+[A. Epic Game](https://codeforces.com/contest/119/problem/A) |cf cp1||3
+[A. Factorise N+M](https://codeforces.com/contest/1740/problem/A) |cf sum prime|ACCEPTED|1
+[B. Jumbo Extra Cheese 2](https://codeforces.com/contest/1740/problem/B) |cf max min|ACCEPTED|1
+[C. Bricks and Bags](https://codeforces.com/contest/1740/problem/C) |cf c sort sim|ACCEPTED|2 improve
+[D. Knowledge Cards](https://codeforces.com/contest/1740/problem/D) |cf c|ACCEPTED|2
+[C. Traffic Light](https://codeforces.com/problemset/problem/1744/C) |cf 1000|ACCEPTED|2
+[E. Scuza](https://codeforces.com/contest/1742/problem/E) |cf|ACCEPTED|
+[C. Save the Magazines](https://codeforces.com/contest/1743/problem/C) |cf|ACCEPTED|
+[C. Number Game](https://codeforces.com/problemset/problem/1749/C) |cf 1200|ACCEPTED|3
 
 ## Training Camp Argentina 2022
 - [Codeforces](https://codeforces.com/group/4zVk9dZl6Q/blog)
@@ -83,6 +93,9 @@
 - [37:40 D](https://www.youtube.com/watch?v=j8EzgbwVP6o&t=2260)
 - [59:40 F](https://www.youtube.com/watch?v=j8EzgbwVP6o&t=3580)
 - [1:27:15 E](https://www.youtube.com/watch?v=j8EzgbwVP6o&t=5235)
+- Grafos
+    - [3:59:52 Floyd Warshall](https://www.youtube.com/watch?v=j8EzgbwVP6o&t=14390)
+    - [4:20:00 Orden topologico...](https://www.youtube.com/watch?v=j8EzgbwVP6o&t=14390)
 
 ### [Día 2, Avanzado](https://www.youtube.com/watch?v=sc2CFQ9kzbE)
 - Fubini-Trick
@@ -118,6 +131,17 @@ Status [link](https://codeforces.com/group/4zVk9dZl6Q/status)
 
 ### Criba
 - [Criba de Eratóstenes](https://aprende.olimpiada-informatica.org/algoritmia-criba-eratostenes)
+
+### Fenwick-tree
+- [fenwick-tree](https://github.com/Peppa-Peddler/competitive-programming/blob/main/data-structures/fenwick-tree.cpp)
+- https://es.wikipedia.org/wiki/Complemento_a_dos
+- problemas
+    - https://codeforces.com/contest/1579/problem/E2
+
+### Teorema chino del resto
+- problemas
+    - https://codeforces.com/problemset/problem/633/A
+
 ## Others
 - Lista de frecuencia
 - [Conjetura de Goldbach](https://es.wikipedia.org/wiki/Conjetura_de_Goldbach)
@@ -151,10 +175,106 @@ Status [link](https://codeforces.com/group/4zVk9dZl6Q/status)
 - [jiangly](https://codeforces.com/profile/jiangly)
 - [Um_nik](https://codeforces.com/profile/Um_nik)
 
+## Improve
+- 1100-1200 -> 1300-1400
+    - https://codeforces.com/contest/1742/problem/E
+    - https://codeforces.com/contest/1742/problem/D
+        - binary search 
+            - https://codeforces.com/problemset/problem/1749/C
+                - https://codeforces.com/contest/1749/submission/177224778
+                - https://codeforces.com/contest/1749/submission/178158227
+        - data structures
+            - https://codeforces.com/problemset/problem/1736/C1
+                - https://codeforces.com/contest/1736/submission/175525713
+        - number theory
+            - https://codeforces.com/problemset/problem/1714/E
+                - https://codeforces.com/blog/entry/105549
+                - https://codeforces.com/contest/1714/submission/167090762
+    - https://codeforces.com/problemset/problem/1741/C
+    - https://codeforces.com/problemset/problem/1739/B
+        - https://codeforces.com/problemset?tags=brute%20force,1300-1400
+            - https://codeforces.com/problemset/problem/1711/B
+                - https://codeforces.com/blog/entry/105232
+                - https://codeforces.com/contest/1711/submission/165615024
+        - https://codeforces.com/problemset/page/3?tags=greedy%2C1300-1400
+            - https://codeforces.com/problemset/problem/435/B
+                - https://codeforces.com/blog/entry/12479
+                - https://codeforces.com/contest/435/submission/151488370
+                - https://codeforces.com/contest/435/submission/97153558
+        - https://codeforces.com/problemset/page/3?tags=math%2C1300-1400
+            - https://codeforces.com/problemset/problem/71/B
+    - https://codeforces.com/problemset/problem/1202/A
+        - https://codeforces.com/blog/entry/89319
+            - https://codeforces.com/contest/1504/submission/111950248
+        - https://codeforces.com/contest/1504/submission/144615732
+        - https://codeforces.com/problemset/problem/1669/H
+            - https://codeforces.com/blog/entry/102101
+            - https://codeforces.com/contest/1669/submission/177652672
+        - https://codeforces.com/problemset/problem/1753/A1
+            - https://codeforces.com/blog/entry/108336
+            - https://codeforces.com/contest/1753/submission/177805561
+    - https://codeforces.com/problemset/problem/1504/B
+        - https://codeforces.com/blog/entry/89319
+        - https://codeforces.com/contest/1504/submission/111950248
+        - https://codeforces.com/contest/1504/submission/111971471
+- 1000 1100 -> 1200 - 1300
+    - https://codeforces.com/problemset/problem/225/A
+        - https://codeforces.com/blog/entry/5322
+        - https://codeforces.com/contest/225/submission/95944823
+    - https://codeforces.com/problemset/problem/548/A
+        - https://codeforces.com/blog/entry/18126
+        - https://codeforces.com/contest/548/submission/72754350
+- 1100 1200 -> 1300 - 1400
+    - https://codeforces.com/problemset/problem/633/A
+        - https://codeforces.com/blog/entry/43392
+    - https://codeforces.com/problemset/problem/632/A
+        - https://codeforces.com/blog/entry/43493
+            - https://pastebin.com/m02Ffev6
+            - https://pastebin.com/CD5CJ7v0
+                - __builtin_popcountll
+        - https://codeforces.com/contest/632/submission/82203274
+- 1200 - 1300 -> 1400 - 1500
+    - https://codeforces.com/problemset/problem/151/B
+    - https://codeforces.com/problemset/problem/1485/B
+### Train
+- 1400 - 1500
+    - https://codeforces.com/problemset/problem/417/B
+    - https://codeforces.com/problemset/problem/182/D
+        - kmp?
+        - https://codeforces.com/contest/182/submission/100581884
+    - https://codeforces.com/problemset/problem/417/A
+        - ??
+    - https://codeforces.com/problemset/problem/416/A
+        - https://codeforces.com/blog/entry/12277
+            - https://codeforces.com/contest/416/submission/6606892
+        - https://codeforces.com/contest/416/submission/83369574
+    - https://codeforces.com/problemset/problem/977/E
+        - https://codeforces.com/blog/entry/59281
+        - https://codeforces.com/contest/977/submission/54485934
+
+### Graph
+- Graph
+    - dfs
+    - Cyclic
+
+#### Problems
+- problem url
+    - name
+    - tags judge
+    - tag referrer
+    - implementation topic
+    - implementation referrer
+- https://codeforces.com/problemset/problem/977/E
+    - Cyclic Components
+    - dfs and similar, dsu, graphs, *1500
+    - dfs
+    - basic
+    - basic
 ## Ref
 - [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
 - [Training Camp Argentina](https://www.youtube.com/channel/UCTtoEdiHyjP6XmxMGhsngCA)
 - [Catalog](https://codeforces.com/catalog)
+    - [Algorithm Gym :: Data structures](https://codeforces.com/blog/entry/15729)
 - [Competitive programming](https://github.com/Peppa-Peddler/competitive-programming)
 - [1. Línea de comandos y entorno¶](https://docs.python.org/es/3.8/using/cmdline.html)
 - [std::count() in C++ STL](https://www.geeksforgeeks.org/std-count-cpp-stl/)

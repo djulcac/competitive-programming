@@ -1,3 +1,4 @@
+// 2022-11-12T14:35:32.750104
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
@@ -8,12 +9,12 @@ typedef long long ll;
 ll solve(){
 	ll n,k,m,t,nn;
 	cin>>n;
-	return 0;
+	return n/2+n%2;
 }
 
 int main(){
 	ll T = 1;
-	// cin>>T;
+	cin>>T;
 	// while(T--) solve();
 	while(T--) cout<<solve()<<endl;
 	return 0;

@@ -6,7 +6,7 @@ typedef long long ll;
 #define f(i,n) for(_int i=0;i<n;i++)
 
 ll solve(){
-	ll n,k,m,t,nn;
+	ll n,m,k;
 	cin>>n;
 	return 0;
 }
@@ -18,4 +18,4 @@ int main(){
 	while(T--) cout<<solve()<<endl;
 	return 0;
 }
-//3.2
+//3.1

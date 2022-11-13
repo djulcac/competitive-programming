@@ -5,8 +5,12 @@ typedef long long ll;
 #define F(i,a,b) for(_int i=a,_=a<b;(_&&i<b)||(!_&&i>b);_?i++:i--)
 #define f(i,n) for(_int i=0;i<n;i++)
 
+ll gcd(ll a,ll b){
+    return a;
+}
+
 ll solve(){
-	ll n,k,m,t,nn;
+	ll n,m,k;
 	cin>>n;
 	return 0;
 }
@@ -18,4 +22,4 @@ int main(){
 	while(T--) cout<<solve()<<endl;
 	return 0;
 }
-//3.2
+//3.1

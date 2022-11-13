@@ -1,3 +1,4 @@
+// 2022-11-01T02:11:30.867528
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
@@ -6,16 +7,17 @@ typedef long long ll;
 #define f(i,n) for(_int i=0;i<n;i++)
 
 ll solve(){
-	ll n,k,m,t,nn;
+	ll n;
 	cin>>n;
-	return 0;
+	vector<ll>ve(n);
+	for(ll &x:ve)cin>>x;
 }
 
 int main(){
 	ll T = 1;
-	// cin>>T;
+	cin>>T;
 	// while(T--) solve();
 	while(T--) cout<<solve()<<endl;
 	return 0;
 }
-//3.2
+//3.1
