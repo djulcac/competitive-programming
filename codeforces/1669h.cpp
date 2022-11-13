@@ -1,4 +1,4 @@
-// 2022-11-05T16:10:56.426388
+// 2022-11-08T14:13:32.726104
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
@@ -8,12 +8,15 @@ typedef long long ll;
 
 ll solve(){
 	ll n,k,m,t,nn;
-	string x0,y0;
-	cin>>x0>>y0;
-	int i,j;
-	for(j=0;j<y0.size();j++)if(y0[y0.size()-1-j]=='1')break;
-	for(i=j;i<x0.size();i++)if(x0[x0.size()-1-i]=='1')break;
-	return max(i-j,0);
+	cin>>n>>k;
+	vector<ll>ve(n);
+	for(ll &x:ve)cin>>x;
+	ll mask[31];f(i,31)mask[i]=0;
+	f(i,n)f(j,31)if((1<<j)&ve[i])mask[j]++;
+	F(i,30,-1)if(n-mask[i]<=k)k-=n-mask[i],mask[i]=n;
+	ll ans=0;
+	f(i,31)if(mask[i]==n)ans+=(1<<i);
+	return ans;
 }
 
 int main(){

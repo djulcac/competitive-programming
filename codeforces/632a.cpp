@@ -1,4 +1,4 @@
-// 2022-11-05T16:10:56.426388
+// 2022-11-09T17:12:01.952525
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
@@ -7,18 +7,19 @@ typedef long long ll;
 #define f(i,n) for(_int i=0;i<n;i++)
 
 ll solve(){
-	ll n,k,m,t,nn;
-	string x0,y0;
-	cin>>x0>>y0;
-	int i,j;
-	for(j=0;j<y0.size();j++)if(y0[y0.size()-1-j]=='1')break;
-	for(i=j;i<x0.size();i++)if(x0[x0.size()-1-i]=='1')break;
-	return max(i-j,0);
+	ll n,k,m,t,nn,p;
+	cin>>n>>p;
+	string s[n];f(i,n)cin>>s[i];
+	ll ans=0;
+	ll money=0;
+	f(i,n)if(s[n-1-i]=="halfplus") money+=2*ans+1,ans=2*ans+1;
+	else money+=2*ans,ans*=2;
+	return money*p/2;
 }
 
 int main(){
 	ll T = 1;
-	cin>>T;
+	// cin>>T;
 	// while(T--) solve();
 	while(T--) cout<<solve()<<endl;
 	return 0;
