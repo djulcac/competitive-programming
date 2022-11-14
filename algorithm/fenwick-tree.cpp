@@ -20,6 +20,7 @@ ll getVal(ll p){
 		ans=ope(ans,fen[i]);
 	return ans;
 }
+// asdfasdfo adf asdf as dasdf asd f
 
 class Fenwick1{
 	public:

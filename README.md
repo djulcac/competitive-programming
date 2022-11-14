@@ -261,15 +261,18 @@ Status [link](https://codeforces.com/group/4zVk9dZl6Q/status)
 - problem url
     - name
     - tags judge
+    - tag topic
     - tag referrer
     - implementation topic
     - implementation referrer
 - https://codeforces.com/problemset/problem/977/E
     - Cyclic Components
     - dfs and similar, dsu, graphs, *1500
+    - dfs, cyclic
     - dfs
     - basic
     - basic
+
 ## Ref
 - [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
 - [Training Camp Argentina](https://www.youtube.com/channel/UCTtoEdiHyjP6XmxMGhsngCA)
