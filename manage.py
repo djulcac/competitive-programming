@@ -98,15 +98,16 @@ class Manage():
             name = os.path.join(path,f"{self.name}.data.short.log.md")
             with open(name,"w") as outfile:
                 x = html.find_all("div",{"class":"problem-statement"})
-                outfile.write(str(x[0]))
+                if len(x)>0:outfile.write(str(x[0]))
             name = os.path.join(path,f"data.log.md")
             with open(name,"w") as outfile:
                 x = html.find_all("div",{"class":"problem-statement"})
-                outfile.write(str(x[0]))
+                if len(x)>0:outfile.write(str(x[0]))
 
 
             # print(x.status_code)
-            test = html.find_all("div",{"class":"sample-test"})[0]
+            test = html.find_all("div",{"class":"sample-test"})
+            if len(test)>0:test=test[0]
             testInput = test.find_all("div",{"class":"input"})
             testOutput = test.find_all("div",{"class":"output"})
             print("Generando inputs outputs")

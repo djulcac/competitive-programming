@@ -17,7 +17,28 @@ void dfs(int v){
 	for(auto it:g[v])if(!used[it])dfs(it);
 }
 
-ll solve(){
+class Graph{
+	public:
+	int n;
+	vector<vector<int>>g;
+	vector<int>u;
+	void build(int x){
+		n=x;
+		g.resize(n);
+		u.resize(n);
+	}
+	void add(int a,int b){
+		a--;b--;
+		g[a].push_back(b);
+		g[b].push_back(a);
+	}
+	void dfs(int v){
+		u[v]=1;
+		for(auto q:g[v])if(!u[v])dfs(q);
+	}
+};
+
+ll solve1(){
 	ll n,m,k;
 	cin>>n>>m;
 	ll x,y;
@@ -29,6 +50,19 @@ ll solve(){
 	f(i,n)if(!used[i])dfs(i);
 	return 0;
 }
+ll solve(){
+	ll n,m,k;
+	cin>>n>>m;
+	ll x,y;
+	Graph g;
+	g.build(n);
+	f(i,m){
+		cin>>x>>y;
+		g.add(x,y);
+	}
+	f(i,n)if(!g.u[i])dfs(i);
+	return 0;
+}	
 
 int main(){
 	ll T = 1;

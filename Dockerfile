@@ -8,3 +8,4 @@ RUN pip install requests
 RUN pip install beautifulsoup4
 RUN apt-get install tmux -y
 RUN ln -s /app/vimrc /root/.vimrc
+RUN ln -s /app/tmux.conf /root/.tmux.conf

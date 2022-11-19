@@ -251,6 +251,14 @@ Status [link](https://codeforces.com/group/4zVk9dZl6Q/status)
     - https://codeforces.com/problemset/problem/977/E
         - https://codeforces.com/blog/entry/59281
         - https://codeforces.com/contest/977/submission/54485934
+	- https://codeforces.com/problemset/problem/1436/C
+		- ??
+
+## Warm up
+- 1000 - 1100
+	- https://codeforces.com/problemset/problem/544/A
+	- https://codeforces.com/problemset/problem/1174/A
+	- https://codeforces.com/problemset/problem/218/A
 
 ### Graph
 - Graph
@@ -272,6 +280,14 @@ Status [link](https://codeforces.com/group/4zVk9dZl6Q/status)
     - dfs
     - basic
     - basic
+
+## Codeforces
+General announcement:
+Your score for the contest is equal to the sum of the
+scores amoung all tests. The best submission will be
+chosen to show stadings. The problem do not have any
+system testing(i.e. the current testset is final). Your
+score at the end of the contest is your result.
 
 ## Ref
 - [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)

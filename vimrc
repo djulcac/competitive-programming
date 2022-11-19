@@ -60,3 +60,4 @@ set encoding=utf-8
 set list listchars=tab:▸\ ,trail:·,precedes:←,extends:→
 set autoindent
 set tabstop=4
+set nowrap

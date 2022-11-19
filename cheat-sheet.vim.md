@@ -140,10 +140,22 @@ O
 " tab
 :st tabstop=4
 
+# buffer
+"abrir buffer 2 en este windows
+:b2
+"ver los archivos en buffer
+:ls
+"quitar un archivo del  buffer
+:bd
+
 # Ref
 - https://codingpotions.com/vim-movimientos-horizontales
 - https://victorhck.gitbook.io/aprende-vim/cap03_abriendo_y_buscando_archivos
 - https://codingpotions.com/vim-movimientos-verticales
 - https://victorhckinthefreeworld.com/2019/04/10/utilizar-pestanas-en-el-editor-vim/
 - https://www.reddit.com/r/vim/comments/4hoa6e/what_do_you_use_for_your_listchars/
-- https://stackoverflow.com/questions/63017771/how-to-modify-change-the-vimrc-file-in-vscode- https://stackoverflow.com/questions/1878974/redefine-tab-as-4-spaces
+- https://stackoverflow.com/questions/63017771/how-to-modify-change-the-vimrc-file-in-vscode
+- https://stackoverflow.com/questions/1878974/redefine-tab-as-4-spaces
+- https://www.cs.oberlin.edu/~kuperman/help/vim/windows.html
+- https://victorhck.gitbook.io/aprende-vim/cap02_buffers_ventanas_pestanas
+

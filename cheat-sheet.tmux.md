@@ -25,9 +25,13 @@ x  kill pane
 <prefix> z toggle pane zoom
 ### Move
 <arrows> to move between panes
-## UTf-8
+## UTF-8
 tmux -u
-
+## status/bar
+tmux set -g status-right "#[fg=white]#S #I:#P #[fg=yellow]:: [%d %b |#[fg=cyan] #(TZ=UTC date -u +%%H:%%M:%%S) UTC | #(TZ=Asia/Kolkata date +%%H:%%M:%%S) IST]"
+tmux set -g status-right "[%d %b | #(TZ=UTC date -u +%%H:%%M:%%S) UTC | #(TZ=America/Lima date +%%H:%%M:%%S) PET]"
 ## REF
 - https://gist.github.com/MohamedAlaa/2961058
 - https://tmuxcheatsheet.com/
+- https://dev.to/brandonwallace/make-your-tmux-status-bar-100-better-with-bash-2fne
+	- solo usando bash
