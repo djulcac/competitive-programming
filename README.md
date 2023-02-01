@@ -142,10 +142,18 @@ Status [link](https://codeforces.com/group/4zVk9dZl6Q/status)
 - problemas
     - https://codeforces.com/problemset/problem/633/A
 
+### Combinatoria
+- [Combinatorics](https://www.mathpages.com/home/icombina.htm)
+- [The Hyperbook of combinatorics](http://www.combinatorics.net/Resources/hyper/Hyperbook.aspx)
+- [Combinatoria y Recurrencia](https://upcommons.upc.edu/bitstream/handle/2117/186922/matd-combinatoria-recurrencias-4760.pdf)
+
+
+
 ## Others
 - Lista de frecuencia
 - [Conjetura de Goldbach](https://es.wikipedia.org/wiki/Conjetura_de_Goldbach)
 - [Euler's constant](https://en.wikipedia.org/wiki/Euler%27s_constant)
+- [Fundamentos](https://aprende.olimpiada-informatica.org/algoritmia)
 
 ## Tips
 - Simular y ver patrones
@@ -259,6 +267,16 @@ Status [link](https://codeforces.com/group/4zVk9dZl6Q/status)
 	- https://codeforces.com/problemset/problem/544/A
 	- https://codeforces.com/problemset/problem/1174/A
 	- https://codeforces.com/problemset/problem/218/A
+	- https://codeforces.com/problemset/problem/1472/C
+	- https://codeforces.com/problemset/problem/1761/B
+	- https://codeforces.com/problemset/problem/196/A
+	- https://codeforces.com/problemset/problem/1760/E
+- 1300
+	- https://codeforces.com/problemset/problem/567/B
+	- https://codeforces.com/problemset/problem/80/A
+	- https://codeforces.com/problemset/problem/79/A
+	- https://codeforces.com/problemset/problem/1535/B
+	- https://codeforces.com/problemset/problem/1535/A
 
 ### Graph
 - Graph
@@ -297,3 +315,6 @@ score at the end of the contest is your result.
 - [Competitive programming](https://github.com/Peppa-Peddler/competitive-programming)
 - [1. Línea de comandos y entorno¶](https://docs.python.org/es/3.8/using/cmdline.html)
 - [std::count() in C++ STL](https://www.geeksforgeeks.org/std-count-cpp-stl/)
+-[Is permutation and combination in competitive coding is Dynamic programming ?]( https://codeforces.com/blog/entry/18851)
+sdf
+

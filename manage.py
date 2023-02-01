@@ -13,6 +13,7 @@ class Manage():
     # validateN=1
     BASE_DIR=""
     configName="config.log.json"
+
     def __init__(self):
         self.BASE_DIR=pathlib.Path(__file__).parent
         config=self.getConfig()
@@ -23,6 +24,7 @@ class Manage():
         if "judge" in config: self.judge=config["judge"] 
         if "isContest" in config: self.isContest=config["isContest"]
         if "isTest" in config: self.isTest=config["isTest"]
+
     def build(self):
         path=os.path.join(self.BASE_DIR,self.judge)
         logName=''
@@ -34,6 +36,7 @@ class Manage():
         print("command:",command)
         os.system(command)
         return True
+
     def run(self,i):
         path=os.path.join(self.BASE_DIR,self.judge)
         logName=''
@@ -47,6 +50,7 @@ class Manage():
         os.system(command)
         print("="*7)
         return True
+
     def validate(self):
         path=os.path.join(self.BASE_DIR,self.judge)
         for x in os.listdir(path):
@@ -60,6 +64,7 @@ class Manage():
                     r=x.split(".")
                     if len(r)!=4 or r[0]!=self.name or r[1]!='in' or r[3]!='txt': continue
                     self.run(r[2])
+
     def setParams(self,params):
         config=self.getConfig()
         for x in ["name","language","judge"]:
@@ -68,6 +73,7 @@ class Manage():
         json_object = json.dumps(config, indent=4) 
         with open("config.log.json", "w") as outfile:
             outfile.write(json_object)
+
     def init(self):
         if self.judge == 'codeforces':
             path=os.path.join(self.BASE_DIR,self.judge)
@@ -82,31 +88,41 @@ class Manage():
             i = 0
             while self.name[i] in '0123456789':
                 i+=1
-            urlName=f'https://codeforces.com/problemset/problem/{self.name[:i]}/{self.name[i:].upper()}'
+            urlName=f'https://codeforces.com/problemset/problem/{self.name[:i]}/{self.name[i:].upper()}?f0a28=1'
             if self.isContest:
                 urlName=f'https://codeforces.com/contest/{self.name[:i]}/problem/{self.name[i:].upper()}'
             # print(urlName)
+            print("Moviendo template")
+            fileName=os.path.join(path,f"{self.name}{logName}.{self.language}")
+            comment = "#"
+            if self.language=='cpp':
+                comment="//"
+            command=f'echo "{comment} {datetime.now().isoformat()}" >  {fileName}'
+            # command=f'cp "\n# bien" >>  {fileName}'
+            os.system(command)
+            command=f'cat {os.path.join(self.BASE_DIR,f"template.{self.language}")} >>  {fileName}'
+            os.system(command)
             print("Obteniendo datos")
             x = requests.get(urlName)
             print("Guardando contenido")# datos
             name = os.path.join(path,f"{self.name}.data.log.html")
             with open(name,"w") as outfile:
                 outfile.write(x.text)
-            # print(x.text)
+            #print(x.text)
             html = BeautifulSoup(x.text, 'html.parser')
-            
+            #print(332,html)
             name = os.path.join(path,f"{self.name}.data.short.log.md")
             with open(name,"w") as outfile:
                 x = html.find_all("div",{"class":"problem-statement"})
                 if len(x)>0:outfile.write(str(x[0]))
+            #print(333,x)
             name = os.path.join(path,f"data.log.md")
             with open(name,"w") as outfile:
                 x = html.find_all("div",{"class":"problem-statement"})
                 if len(x)>0:outfile.write(str(x[0]))
-
-
             # print(x.status_code)
             test = html.find_all("div",{"class":"sample-test"})
+            print(334,test)
             if len(test)>0:test=test[0]
             testInput = test.find_all("div",{"class":"input"})
             testOutput = test.find_all("div",{"class":"output"})
@@ -120,7 +136,6 @@ class Manage():
                 with open(name,"w") as outfile:
                     outfile.write(xi.pre.getText())
                 # print(xi.pre.getText(),'-----',i)
-                
                 for br in xo.pre.find_all("br"):
                     br.replace_with("\n")
                 name = os.path.join(path,f"{self.name}{logName}.out.{str(i+1)}.txt")
@@ -128,16 +143,6 @@ class Manage():
                     outfile.write(xo.pre.getText())
                 # print(xo.pre.getText(),'####',i)
             # print(html.title)
-            print("Moviendo template")
-            fileName=os.path.join(path,f"{self.name}{logName}.{self.language}")
-            comment = "#"
-            if self.language=='cpp':
-                comment="//"
-            command=f'echo "{comment} {datetime.now().isoformat()}" >  {fileName}'
-            # command=f'cp "\n# bien" >>  {fileName}'
-            os.system(command)
-            command=f'cat {os.path.join(self.BASE_DIR,f"template.{self.language}")} >>  {fileName}'
-            os.system(command)
             print("Inicializado")
 
     def getConfig(self):

@@ -6,14 +6,27 @@ typedef long long ll;
 #define f(i,n) for(_int i=0;i<n;i++)
 
 ll solve(){
-	ll n,k,m,t,nn;
+	int n,k,m,t,nn;
 	cin>>n;
-	return 0;
+	vector<int>ve(n);
+	for(int &x:ve)cin>>x;
+	int ima,sma,ste,ite;
+	ima=sma=0;
+	vector<int>dp(n);
+	F(i,n-1,-1){
+		dp[i]=ve[i];
+		ite=i+1+ve[i];
+		if(ite<=n){
+			dp[i]+=dp[ite-1];
+		}
+	}
+	f(i,n)sma=max(sma,dp[i]);
+	return sma;
 }
 
 int main(){
 	ll T = 1;
-	// cin>>T;
+	cin>>T;
 	// while(T--) solve();
 	while(T--) cout<<solve()<<endl;
 	return 0;
