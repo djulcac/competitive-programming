@@ -6,9 +6,25 @@ typedef long long ll;
 #define f(i,n) for(_int i=0;i<n;i++)
 
 ll solve(){
-	ll n,k,m,t,nn;
+	ll n,k,m,t,nn,x;
 	cin>>n;
-	return 0;
+	string s;
+	vector<bool>ve(1000006,0);
+	ll ans=0,con=0;
+	f(i,n){
+		cin>>s>>x;
+		if(s=="+"){
+			ve[x]=1;
+			con++;
+			ans=max(ans,con);
+		}else if(s=="-"&&ve[x]){
+			con--;
+			ve[x]=0;
+		}else if(s=="-"&&!ve[x]){
+			ans++;
+		}
+	}
+	return ans;
 }
 
 int main(){

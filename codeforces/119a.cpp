@@ -7,9 +7,21 @@ typedef long long ll;
 #define f(i,n) for(_int i=0;i<n;i++)
 
 ll solve(){
-	ll n,m,k;
-	cin>>n;
-	return 0;
+	ll a,b,n,m,k;
+	int ans=1;
+	cin>>a>>b>>n;
+	while(n){
+		if(ans){
+			if(n-__gcd(n,a)<0)break;
+			n-=__gcd(n,a);
+			ans^=1;
+		}else{
+			if(n-__gcd(n,b)<0)break;
+			n-=__gcd(n,b);
+			ans^=1;
+		}
+	}
+	return ans;
 }
 
 int main(){
