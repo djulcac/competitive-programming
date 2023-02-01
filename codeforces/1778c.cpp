@@ -1,4 +1,4 @@
-// 2023-02-01T14:43:07.158612
+// 2023-02-01T16:11:58.960261
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
@@ -8,21 +8,21 @@ typedef long long ll;
 
 ll solve(){
 	ll n,k,m,t,nn;
-	cin>>n;
-	int su = 0, p=0;
-	vector<int>va(n);
-	for(int &x:va){cin>>x;su+=x;}
-	// for(int i=1;i<n;i++){
-	// 	if(va[i]==-1 && va[i-1]==-1)p=2;
-	// }
-	// return su+2*p;
-	int a,b,ans;
-	ans=su-2*(va[0]+va[1]);
-	for(int i=1;i<n;i++){
-		a=va[i]+va[i-1];
-		b=-va[i]-va[i-1];
-		ans=max(ans,su+2*b);
+	vector<ll>sa(10,0),sb(10,0);
+	cin>>n>>k;
+	string s1,s2;
+	cin>>s1>>s2;
+	for(int i=0;i<n;i++){
+		sa[s1[i]-'a']++;
+		sb[s2[i]-'a']++;
 	}
+	ll ca=0,cb=0,one=1;
+	for(int i=0;i<10;i++){
+		ca+=min(one,sa[i]);
+		cb+=min(one,sb[i]);
+	}
+	if(max(ca,cb)<=k) return n*(n+1)/2;
+	ll ans=0;
 	return ans;
 }
 
