@@ -1,5 +1,7 @@
 # Cheat Sheet TMUX
 
+Activar comandos: Ctrl + b
+
 ## Windows (tabs)
 c  create window
 w  list windows

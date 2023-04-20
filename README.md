@@ -244,6 +244,7 @@ Status [link](https://codeforces.com/group/4zVk9dZl6Q/status)
 - 1200 - 1300 -> 1400 - 1500
     - https://codeforces.com/problemset/problem/151/B
     - https://codeforces.com/problemset/problem/1485/B
+
 ### Train
 - 1400 - 1500
     - https://codeforces.com/problemset/problem/417/B
@@ -299,6 +300,12 @@ Status [link](https://codeforces.com/group/4zVk9dZl6Q/status)
     - basic
     - basic
 
+## Topics
+
+### DFS
+- https://codeforces.com/problemset/problem/977/E
+
+
 ## Codeforces
 General announcement:
 Your score for the contest is equal to the sum of the
@@ -316,5 +323,5 @@ score at the end of the contest is your result.
 - [1. Línea de comandos y entorno¶](https://docs.python.org/es/3.8/using/cmdline.html)
 - [std::count() in C++ STL](https://www.geeksforgeeks.org/std-count-cpp-stl/)
 -[Is permutation and combination in competitive coding is Dynamic programming ?]( https://codeforces.com/blog/entry/18851)
-sdf
+
 
